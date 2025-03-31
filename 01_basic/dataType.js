@@ -14,4 +14,27 @@ let isLoggedIn = false
 //undefined =>
 //symbol => unique
 //object
+//*************************** operations ***********************
+
+//let value = 3
+//let negvalue = -value
+//console.log(negvalue);
+//console.log(2+3);
+//console.log(2-3);
+//console.log(2/3);
+//console.log(2%3);
+//console.log(2**3);
+//console.log(2*3);
+
+//let str1 = 2
+//let str2 = 4
+//let str3 = str1 = str2
+
+//c//onsole.log(str3);
+
+//console.log("1" + 5);
+//console.log(1 + "5");
+//console.log("1" + 5 + 3);
+//console.log(1 + 5 + "3");
+
 
