@@ -1,4 +1,4 @@
-"use strict";//treat all js code newer version
+ "use strict";//treat all js code newer version
 
 //alert(3 + 3)//we are usin node js,not browser
 
